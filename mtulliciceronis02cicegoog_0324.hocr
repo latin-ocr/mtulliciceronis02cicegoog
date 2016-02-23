@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliciceronis02cicegoog/mtulliciceronis02cicegoog_0324.png"; bbox 0 0 3008 4898; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 515 2056 1424 2083">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 515 2056 1424 2083">
+     <span class='ocr_line' id='line_1_1' title="bbox 515 2056 1424 2083; baseline -0.001 -15"><span class='ocrx_word' id='word_1_1' title='bbox 515 2056 814 2083; x_wconf 41' lang='grc' dir='ltr'><em>,μμ-ψ·-</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 835 2056 1054 2061; x_wconf 77' lang='lat'>——···</span> <span class='ocrx_word' id='word_1_3' title='bbox 1097 2058 1188 2063; x_wconf 87' lang='lat'><strong>——-</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1201 2060 1277 2065; x_wconf 90' lang='lat'><em>-———</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1297 2058 1424 2067; x_wconf 72' lang='lat' dir='ltr'><strong>—n—</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 554 2178 1406 2392">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 554 2178 1406 2392">
+     <span class='ocr_line' id='line_1_2' title="bbox 554 2178 1406 2260; baseline -0.002 -2"><span class='ocrx_word' id='word_1_6' title='bbox 554 2183 822 2260; x_wconf 82' lang='lat' dir='ltr'><strong>STANFORD</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 848 2178 1157 2260; x_wconf 73' lang='lat' dir='ltr'>UNIVERSITY</span> <span class='ocrx_word' id='word_1_8' title='bbox 1182 2182 1406 2258; x_wconf 81' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 758 2302 1205 2392; baseline -0.002 -15"><span class='ocrx_word' id='word_1_9' title='bbox 758 2302 959 2392; x_wconf 75' lang='lat' dir='ltr'><strong>stanford,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 985 2302 1205 2376; x_wconf 79' lang='lat' dir='ltr'><strong>California</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1508 4898">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1508 4898">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1508 4898; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1508 4898; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
